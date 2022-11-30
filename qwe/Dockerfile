@@ -1,2 +1,2 @@
-from k8s.gcr.io/k8s-dns-kube-dns:1.15.10
+from k8s.gcr.io/ingress-nginx/kube-webhook-certgen:v1.1.1
 maintainer ning
