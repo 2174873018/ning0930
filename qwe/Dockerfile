@@ -1,2 +1,2 @@
-from k8s.gcr.io/ingress-nginx/kube-webhook-certgen:v1.1.1
+from registry.k8s.io/ingress-nginx/kube-webhook-certgen:v20220916-gd32f8c343
 maintainer ning
