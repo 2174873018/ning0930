@@ -1,2 +1,2 @@
-from registry.k8s.io/kube-proxy:v1.27.1
+from registry.k8s.io/pause:3.9
 maintainer ning
