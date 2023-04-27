@@ -1,2 +1,2 @@
-from registry.k8s.io/coredns/coredns:v1.9.3
+from registry.k8s.io/kube-apiserver:v1.27.1
 maintainer ning
