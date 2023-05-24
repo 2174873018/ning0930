@@ -1,2 +1,2 @@
-from registry.k8s.io/etcd:3.5.7-0
+from registry.k8s.io/coredns/coredns:v1.10.1
 maintainer ning
