@@ -1,2 +1,2 @@
-from registry.k8s.io/pause:3.10
+from registry.k8s.io/etcd:3.5.15-0
 maintainer ning
