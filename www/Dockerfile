@@ -1,2 +1,2 @@
-from registry.k8s.io/kube-proxy:v1.31.6
+from registry.k8s.io/coredns/coredns:v1.11.3
 maintainer ning
