@@ -1,2 +1,2 @@
-from registry.k8s.io/etcd:3.5.15-0
+from ghcr.io/flannel-io/flannel:v0.26.4
 maintainer ning
