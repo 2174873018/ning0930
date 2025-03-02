@@ -1,2 +1,2 @@
-from docker.io/calico/node-driver-registrar:v3.25.1
+from docker.io/calico/csi:v3.25.1
 maintainer ning
