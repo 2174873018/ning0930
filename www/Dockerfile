@@ -1,2 +1,2 @@
-from registry.k8s.io/ingress-nginx/controller-chroot:v1.12.0@sha256:87c88e1c38a6c8d4483c8f70b69e2cca49853bb3ec3124b9b1be648edf139af3
+from registry.k8s.io/ingress-nginx/controller:v1.12.0@sha256:e6b8de175acda6ca913891f0f727bca4527e797d52688cbe9fec9040d6f6b6fa
 maintainer ning
