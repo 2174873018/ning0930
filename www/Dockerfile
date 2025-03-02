@@ -1,2 +1,2 @@
-from ghcr.io/flannel-io/flannel:v0.26.4
+from docker.io/calico/pod2daemon-flexvol:v3.25.1
 maintainer ning
