@@ -1,2 +1,2 @@
-from docker.io/calico/node:v3.25.1
+from docker.io/calico/apiserver:v3.25.1
 maintainer ning
