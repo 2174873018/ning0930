@@ -1,2 +1,2 @@
-from docker.io/calico/pod2daemon-flexvol:v3.25.1
+from docker.io/calico/kube-controllers:v3.25.1
 maintainer ning
