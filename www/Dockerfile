@@ -1,2 +1,2 @@
-from docker.io/calico/kube-controllers:v3.25.1
+from docker.io/calico/typha:v3.25.1
 maintainer ning
