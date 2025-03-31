@@ -1,2 +1,2 @@
-from docker.io/kubernetesui/dashboard-metrics-scraper:1.2.2
+from kong:3.8
 maintainer ning
