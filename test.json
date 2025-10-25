@@ -1,0 +1,534 @@
+[
+  {
+    "name": "拷贝漫画",
+    "url": "https://api.mangacopy.com",
+    "filename": "拷贝漫画",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "包子漫画",
+    "url": "https://cn.bzmanga.com",
+    "filename": "包子漫画",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "G站",
+    "url": "https://m.g-mh.org",
+    "filename": "G站",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "再漫画",
+    "url": "https://v4api.zaimanhua.com",
+    "filename": "再漫画",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "顶漫画",
+    "url": "https://www.dingmanhua.com",
+    "filename": "顶漫画",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "次元岛",
+    "url": "http://ciyuandao.com/photo",
+    "filename": "次元岛",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "唯一图库",
+    "url": "http://www.mmonly.cc/tag/bs1",
+    "filename": "唯一图库",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "堆糖1",
+    "url": "https://www.duitang.com",
+    "filename": "堆糖1",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "堆糖2",
+    "url": "http://www.duitang.com",
+    "filename": "堆糖2",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "久久漫画网",
+    "url": "http://www.mxshm.top",
+    "filename": "久久漫画网",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "大魔兔",
+    "url": "http://www.damotu.com",
+    "filename": "大魔兔",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "包子漫画",
+    "url": "https://www.baozimh.com",
+    "filename": "包子漫画",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "风车漫画",
+    "url": "https://m.qyy158.com",
+    "filename": "风车漫画",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "G站2",
+    "url": "https://www.godamanga.com",
+    "filename": "G站2",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "动漫屋1",
+    "url": "http://m.dm5.com",
+    "filename": "动漫屋1",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "动漫之家2",
+    "url": "http://sacg.idmzj.com",
+    "filename": "动漫之家2",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "动漫之家7",
+    "url": "https://m.idmzj.com",
+    "filename": "动漫之家7",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "爱飒漫画",
+    "url": "https://m.isamanhua.com",
+    "filename": "爱飒漫画",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "爱优漫",
+    "url": "https://m.iyouman.com",
+    "filename": "爱优漫",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "漫画皮",
+    "url": "https://m.iimanhuapi.com",
+    "filename": "漫画皮",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "鬼罗丽漫画",
+    "url": "http://m.ymgjmh.com",
+    "filename": "鬼罗丽漫画",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "welovemanga",
+    "url": "https://welovemanga.one",
+    "filename": "welovemanga",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "腾讯漫画",
+    "url": "https://m.ac.qq.com",
+    "filename": "腾讯漫画",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "SF漫画",
+    "url": "https://mm.sfacg.com",
+    "filename": "SF漫画",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "naver",
+    "url": "https://m.comic.naver.com/index.nhn",
+    "filename": "naver",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "崩坏3漫画",
+    "url": "https://comic.bh3.com",
+    "filename": "崩坏3漫画",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "90漫画",
+    "url": "http://www.90mh.org",
+    "filename": "90漫画",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "90漫画-M",
+    "url": "https://m.90mh.org",
+    "filename": "90漫画-M",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "漫画人",
+    "url": "http://www.manhuaren.com",
+    "filename": "漫画人",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "咚漫",
+    "url": "https://www.dongmanmanhua.cn",
+    "filename": "咚漫",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "漫漫漫画-M",
+    "url": "https://m.manmanapp.com",
+    "filename": "漫漫漫画-M",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "Klmanga",
+    "url": "https://klmanga.com",
+    "filename": "Klmanga",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "动漫戏说",
+    "url": "https://comic.acgn.cc",
+    "filename": "动漫戏说",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "新新漫画₂",
+    "url": "https://www.77mh.xyz",
+    "filename": "新新漫画₂",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "极速漫画",
+    "url": "http://www.1kkk.com",
+    "filename": "极速漫画",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "漫画屋",
+    "url": "https://www.mhua5.com",
+    "filename": "漫画屋",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "动漫啦",
+    "url": "http://www.dongman.la",
+    "filename": "动漫啦",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "动漫屋",
+    "url": "https://m.dm5.com",
+    "filename": "动漫屋",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "韩国漫画网",
+    "url": "https://www.roumh.com",
+    "filename": "韩国漫画网",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "奴奴漫画",
+    "url": "https://www.2nunu.com",
+    "filename": "奴奴漫画",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "漫漫漫画",
+    "url": "https://www.manmanapp.com",
+    "filename": "漫漫漫画",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "动漫星空",
+    "url": "http://acg.gamersky.com/manhua",
+    "filename": "动漫星空",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "新漫画-A",
+    "url": "https://xapi.xinmanhua.net",
+    "filename": "新漫画-A",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "爱奇艺漫画",
+    "url": "https://www.iqiyi.com/manhua",
+    "filename": "爱奇艺漫画",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "漫畫狗",
+    "url": "https://dogemanga.com",
+    "filename": "漫畫狗",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "漫本",
+    "url": "http://www.manben.com",
+    "filename": "漫本",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "咚漫-M",
+    "url": "https://m.dongmanmanhua.cn",
+    "filename": "咚漫-M",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "非常爱漫",
+    "url": "http://wap.veryim.com",
+    "filename": "非常爱漫",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "咪咕动漫",
+    "url": "https://m.migudm.cn",
+    "filename": "咪咕动漫",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "漫画皮",
+    "url": "https://www.manhuapi.com",
+    "filename": "漫画皮",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "漫客栈w",
+    "url": "https://www.mkzhan.com",
+    "filename": "漫客栈w",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "一本漫画-A",
+    "url": "https://www.yibenmanhua.com",
+    "filename": "一本漫画-A",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "漫画台-M",
+    "url": "https://m.manhuatai.com",
+    "filename": "漫画台-M",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "知音漫客-M",
+    "url": "https://m.zymk.cn",
+    "filename": "知音漫客-M",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "看漫画-M",
+    "url": "https://m.kanman.com",
+    "filename": "看漫画-M",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "漫画160",
+    "url": "https://m.mh160.cc",
+    "filename": "漫画160",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "聚合漫画屋",
+    "url": "https://www.52hah.com",
+    "filename": "聚合漫画屋",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "GMANHUA",
+    "url": "http://www.gmanhua.com",
+    "filename": "GMANHUA",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "92漫画-M",
+    "url": "https://m.92mh.com",
+    "filename": "92漫画-M",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "92漫画",
+    "url": "http://www.92mh.com",
+    "filename": "92漫画",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "动漫狂",
+    "url": "https://www.cartoonmad.com",
+    "filename": "动漫狂",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "日漫之家",
+    "url": "https://rimanzhijia.com",
+    "filename": "日漫之家",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "漫客栈-A",
+    "url": "http://comic.mkzhan.com",
+    "filename": "漫客栈-A",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "神漫画-M",
+    "url": "https://m.taomanhua.com",
+    "filename": "神漫画-M",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "动漫之家v3",
+    "url": "https://v3api.dmzj.com",
+    "filename": "动漫之家v3",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "动漫之家M₂",
+    "url": "https://api.m.idmzj.com",
+    "filename": "动漫之家M₂",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "动漫之家M₁",
+    "url": "https://m.dmzj.com",
+    "filename": "动漫之家M₁",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "动漫之家S₁",
+    "url": "http://sacg.dmzj.com",
+    "filename": "动漫之家S₁",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "龙王传说网",
+    "url": "https://lw.131453.xyz",
+    "filename": "龙王传说网",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "酷看漫画",
+    "url": "https://www.kukk.net",
+    "filename": "酷看漫画",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "肉漫画网",
+    "url": "https://m.roumh.com",
+    "filename": "肉漫画网",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "国漫网",
+    "url": "https://www.guomanwang.com",
+    "filename": "国漫网",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "MangaRead",
+    "url": "https://www.mangaread.org",
+    "filename": "MangaRead",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "如漫画",
+    "url": "https://rumanhua.com",
+    "filename": "如漫画",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "Komiic漫画",
+    "url": "https://komiic.com",
+    "filename": "Komiic漫画",
+    "version": "1.0.0",
+    "description": ""
+  },
+  {
+    "name": "包子漫画cw",
+    "url": "https://cn.webmota.com",
+    "filename": "包子漫画cw",
+    "version": "1.0.0",
+    "description": ""
+  }
+]
