@@ -1,2 +1,2 @@
-from docker.io/kubernetesui/dashboard-api:1.11.1
+from homeassistant/home-assistant:latest
 maintainer ning
