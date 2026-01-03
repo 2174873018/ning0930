@@ -1,2 +1,2 @@
-from homeassistant/home-assistant:latest
+from nodered/node-red:latest
 maintainer ning
