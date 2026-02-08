@@ -1,2 +1,2 @@
-from jitsi/prosody:stable-10741
+from jitsi/jicofo:stable-10741
 maintainer ning
